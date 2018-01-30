@@ -1,0 +1,15 @@
+D:\Programming\Visual Basic\test\Test\Test\bin\Debug\Test.exe.config
+D:\Programming\Visual Basic\test\Test\Test\obj\Debug\Test.vbprojResolveAssemblyReference.cache
+D:\Programming\Visual Basic\test\Test\Test\obj\Debug\Test.Form1.resources
+D:\Programming\Visual Basic\test\Test\Test\obj\Debug\Test.Resources.resources
+D:\Programming\Visual Basic\test\Test\Test\obj\Debug\Test.vbproj.GenerateResource.Cache
+D:\Programming\Visual Basic\test\Test\Test\bin\Debug\Test.exe
+D:\Programming\Visual Basic\test\Test\Test\bin\Debug\Test.pdb
+D:\Programming\Visual Basic\test\Test\Test\bin\Debug\Test.xml
+D:\Programming\Visual Basic\test\Test\Test\obj\Debug\Test.exe
+D:\Programming\Visual Basic\test\Test\Test\obj\Debug\Test.xml
+D:\Programming\Visual Basic\test\Test\Test\obj\Debug\Test.pdb
+D:\Programming\Visual Basic\Test\Test\bin\Debug\Test.exe.config
+D:\Programming\Visual Basic\Test\Test\obj\Debug\Test.exe
+D:\Programming\Visual Basic\Test\Test\obj\Debug\Test.xml
+D:\Programming\Visual Basic\Test\Test\obj\Debug\Test.pdb
