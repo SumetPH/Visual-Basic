@@ -1,0 +1,21 @@
+D:\VB\VariableDemo\bin\Debug\VariableDemo.exe
+D:\VB\VariableDemo\bin\Debug\VariableDemo.pdb
+D:\VB\VariableDemo\bin\Debug\VariableDemo.xml
+D:\VB\VariableDemo\obj\x86\Debug\VariableDemo.Form1.resources
+D:\VB\VariableDemo\obj\x86\Debug\VariableDemo.Resources.resources
+D:\VB\VariableDemo\obj\x86\Debug\VariableDemo.vbproj.GenerateResource.Cache
+D:\VB\VariableDemo\obj\x86\Debug\VariableDemo.exe
+D:\VB\VariableDemo\obj\x86\Debug\VariableDemo.xml
+D:\VB\VariableDemo\obj\x86\Debug\VariableDemo.pdb
+E:\Programming\Visual Basic\VariableDemo\obj\x86\Debug\VariableDemo.exe
+E:\Programming\Visual Basic\VariableDemo\obj\x86\Debug\VariableDemo.xml
+E:\Programming\Visual Basic\VariableDemo\obj\x86\Debug\VariableDemo.pdb
+E:\Programming\Visual Basic\VariableDemo\bin\Debug\VariableDemo.exe
+E:\Programming\Visual Basic\VariableDemo\bin\Debug\VariableDemo.pdb
+E:\Programming\Visual Basic\VariableDemo\bin\Debug\VariableDemo.xml
+E:\Programming\Visual Basic\VariableDemo\obj\x86\Debug\VariableDemo.Form1.resources
+E:\Programming\Visual Basic\VariableDemo\obj\x86\Debug\VariableDemo.Resources.resources
+E:\Programming\Visual Basic\VariableDemo\obj\x86\Debug\VariableDemo.vbproj.GenerateResource.Cache
+D:\Programming\Visual Basic\VariableDemo\obj\x86\Debug\VariableDemo.exe
+D:\Programming\Visual Basic\VariableDemo\obj\x86\Debug\VariableDemo.xml
+D:\Programming\Visual Basic\VariableDemo\obj\x86\Debug\VariableDemo.pdb

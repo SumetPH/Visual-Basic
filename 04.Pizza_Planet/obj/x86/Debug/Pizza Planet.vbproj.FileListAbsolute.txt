@@ -1,0 +1,15 @@
+D:\VB\Pizza Planet\obj\x86\Debug\Pizza_Planet.Form1.resources
+D:\VB\Pizza Planet\obj\x86\Debug\Pizza_Planet.Resources.resources
+D:\VB\Pizza Planet\obj\x86\Debug\Pizza Planet.vbproj.GenerateResource.Cache
+D:\VB\Pizza Planet\bin\Debug\Pizza Planet.exe
+D:\VB\Pizza Planet\bin\Debug\Pizza Planet.pdb
+D:\VB\Pizza Planet\bin\Debug\Pizza Planet.xml
+D:\VB\Pizza Planet\obj\x86\Debug\Pizza Planet.exe
+D:\VB\Pizza Planet\obj\x86\Debug\Pizza Planet.xml
+D:\VB\Pizza Planet\obj\x86\Debug\Pizza Planet.pdb
+E:\Programming\Visual Basic\Pizza Planet\obj\x86\Debug\Pizza Planet.exe
+E:\Programming\Visual Basic\Pizza Planet\obj\x86\Debug\Pizza Planet.xml
+E:\Programming\Visual Basic\Pizza Planet\obj\x86\Debug\Pizza Planet.pdb
+D:\Programming\Visual Basic\Pizza Planet\obj\x86\Debug\Pizza Planet.exe
+D:\Programming\Visual Basic\Pizza Planet\obj\x86\Debug\Pizza Planet.xml
+D:\Programming\Visual Basic\Pizza Planet\obj\x86\Debug\Pizza Planet.pdb

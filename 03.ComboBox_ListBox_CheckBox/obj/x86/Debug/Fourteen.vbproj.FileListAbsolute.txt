@@ -1,0 +1,12 @@
+D:\Programming\Visual Basic\Fourteen\bin\Debug\Fourteen.exe
+D:\Programming\Visual Basic\Fourteen\bin\Debug\Fourteen.pdb
+D:\Programming\Visual Basic\Fourteen\bin\Debug\Fourteen.xml
+D:\Programming\Visual Basic\Fourteen\obj\x86\Debug\Fourteen.Form1.resources
+D:\Programming\Visual Basic\Fourteen\obj\x86\Debug\Fourteen.Form2.resources
+D:\Programming\Visual Basic\Fourteen\obj\x86\Debug\Fourteen.Resources.resources
+D:\Programming\Visual Basic\Fourteen\obj\x86\Debug\Fourteen.vbproj.GenerateResource.Cache
+D:\Programming\Visual Basic\Fourteen\obj\x86\Debug\Fourteen.exe
+D:\Programming\Visual Basic\Fourteen\obj\x86\Debug\Fourteen.xml
+D:\Programming\Visual Basic\Fourteen\obj\x86\Debug\Fourteen.pdb
+D:\Programming\Visual Basic\Fourteen\obj\x86\Debug\Fourteen.Form3.resources
+D:\Programming\Visual Basic\Fourteen\obj\x86\Debug\Fourteen.Form4.resources
