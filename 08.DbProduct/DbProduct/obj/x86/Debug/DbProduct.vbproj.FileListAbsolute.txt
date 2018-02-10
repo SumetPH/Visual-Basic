@@ -1,0 +1,16 @@
+D:\VB\DbProduct\DbProduct\bin\Debug\Database1.mdf
+D:\VB\DbProduct\DbProduct\bin\Debug\Database1_log.ldf
+D:\VB\DbProduct\DbProduct\bin\Debug\DbProduct.exe.config
+D:\VB\DbProduct\DbProduct\bin\Debug\DbProduct.exe
+D:\VB\DbProduct\DbProduct\bin\Debug\DbProduct.pdb
+D:\VB\DbProduct\DbProduct\bin\Debug\DbProduct.xml
+D:\VB\DbProduct\DbProduct\obj\x86\Debug\DbProduct.Form1.resources
+D:\VB\DbProduct\DbProduct\obj\x86\Debug\DbProduct.Resources.resources
+D:\VB\DbProduct\DbProduct\obj\x86\Debug\DbProduct.vbproj.GenerateResource.Cache
+D:\VB\DbProduct\DbProduct\obj\x86\Debug\DbProduct.exe
+D:\VB\DbProduct\DbProduct\obj\x86\Debug\DbProduct.xml
+D:\VB\DbProduct\DbProduct\obj\x86\Debug\DbProduct.pdb
+D:\GitHub\Visual_Basic\08.DbProduct\DbProduct\bin\Debug\DbProduct.exe.config
+D:\GitHub\Visual_Basic\08.DbProduct\DbProduct\obj\x86\Debug\DbProduct.exe
+D:\GitHub\Visual_Basic\08.DbProduct\DbProduct\obj\x86\Debug\DbProduct.xml
+D:\GitHub\Visual_Basic\08.DbProduct\DbProduct\obj\x86\Debug\DbProduct.pdb
